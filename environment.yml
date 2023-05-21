@@ -1,0 +1,13 @@
+name: nordpool
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - numpy
+      - pandas
+      - seaborn
+      - scikit-learn
+      - skforecast
+      - xgboost
+      - ipykernel
+      - jupyter
